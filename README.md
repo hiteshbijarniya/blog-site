@@ -1,2 +1,2 @@
 # blog-site
-Blog site project 
+This is a blog site project 
